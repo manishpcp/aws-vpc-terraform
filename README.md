@@ -244,6 +244,3 @@ For issues and questions:
 **⚠️ Important**: Always review and test this configuration in a non-production environment before deploying to production. Customize security groups, NACLs, and other security settings according to your organization's requirements.
 
 
-[2](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81269357/4a7cb914-2f94-4868-83c4-1ee967fe739a/outputs.tf)
-[3](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81269357/6fd16736-eb1d-4265-9d29-c31b7dd27bcf/providers.tf)
-[4](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/81269357/699c9224-6672-416c-9fd4-f3205b138692/variables.tf)
