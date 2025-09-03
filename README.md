@@ -38,8 +38,8 @@ This Terraform configuration deploys a highly available, secure AWS VPC infrastr
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/manishpcp/aws-vpc-terraform.git
+   cd aws-vpc-terraform
    ```
 
 2. **Initialize Terraform**
